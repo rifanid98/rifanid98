@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on [PT. NashTa Globoal Utama](https://nashta.co.id/)
 - 🌱 I’m currently learning Kotlin Android, NestJs, DevOps and GoLang
-- 👯 I’m looking to collaborate on 
+- 👯 I'm looking to collaborate in a company that implements SDLC well, with programmers who are fun to talk to
 - 🤔 I’m looking for help with Google and StackOverflow
 - 💬 Ask me about anything about programming
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adnin-rifandi/), [Facebook](https://web.facebook.com/adnin.rifandi754)
