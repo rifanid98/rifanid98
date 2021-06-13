@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with Google and StackOverflow
 - 💬 Ask me about anything about programming
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adnin-rifandi/),[Facebook](https://web.facebook.com/adnin.rifandi754)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adnin-rifandi/), [Facebook](https://web.facebook.com/adnin.rifandi754)
