@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on [PT. NashTa Global Utama](https://nashta.co.id/)
-- 🌱 I’m currently learning Kotlin Android, NestJs and GoLang
+- 🔭 I’m currently working on [Majoo Indonesia](https://majoo.id/)
+- 🌱 I’m currently learning Kotlin Android, Golang & Java
 - 👯 I'm looking to collaborate in a company that implements SDLC well, with programmers who are fun to talk to
 - 🤔 I’m looking for help with Google and StackOverflow
 - 💬 Ask me about anything about programming
