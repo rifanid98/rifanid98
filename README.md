@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on [Majoo Indonesia](https://majoo.id/)
+- 🔭 I’m currently working on [HappyKids.id](https://happykids.id/)
 - 🌱 I’m currently learning Kotlin Android, Golang & Java
 - 👯 I'm looking to collaborate in a company that implements SDLC well, with programmers who are fun to talk to
 - 🤔 I’m looking for help with Google and StackOverflow
